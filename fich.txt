@@ -1,0 +1,23 @@
+total 248
+-rw-rw-r--  1 servidor2 servidor2     0 may 21 13:35 fich.txt
+-rw-r--r--  1 servidor2 servidor2   405 feb  6  2020 index.php
+-rw-r--r--  1 servidor2 servidor2 19915 ene  1 01:02 license.txt
+-rw-r--r--  1 servidor2 servidor2  7401 dic  8 15:13 readme.html
+-rw-r--r--  1 servidor2 servidor2  7387 feb 13 15:19 wp-activate.php
+drwxr-xr-x  9 servidor2 servidor2  4096 may  7 17:52 wp-admin
+-rw-r--r--  1 servidor2 servidor2   351 feb  6  2020 wp-blog-header.php
+-rw-r--r--  1 servidor2 servidor2  2323 jun 14  2023 wp-comments-post.php
+-rw-r--r--  1 servidor2 servidor2  5512 may 14 16:57 wp-config-docker.php
+-rw-r--r--  1 servidor2 servidor2  5616 may 19 20:46 wp-config.php
+-rw-r--r--  1 servidor2 servidor2  3012 nov 22 18:44 wp-config-sample.php
+drwxr-xr-x  7 servidor2 servidor2  4096 may 21 13:18 wp-content
+-rw-r--r--  1 servidor2 servidor2  5638 may 30  2023 wp-cron.php
+drwxr-xr-x 30 servidor2 servidor2 16384 may  7 17:52 wp-includes
+-rw-r--r--  1 servidor2 servidor2  2502 nov 26  2022 wp-links-opml.php
+-rw-r--r--  1 servidor2 servidor2  3927 jul 16  2023 wp-load.php
+-rw-r--r--  1 servidor2 servidor2 50917 ene 16 18:31 wp-login.php
+-rw-r--r--  1 servidor2 servidor2  8525 sep 16  2023 wp-mail.php
+-rw-r--r--  1 servidor2 servidor2 28427 mar  2 11:47 wp-settings.php
+-rw-r--r--  1 servidor2 servidor2 34385 jun 19  2023 wp-signup.php
+-rw-r--r--  1 servidor2 servidor2  4885 jun 22  2023 wp-trackback.php
+-rw-r--r--  1 servidor2 servidor2  3246 mar  2 14:49 xmlrpc.php
