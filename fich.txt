@@ -1,3 +1,5 @@
+esto es una prueba
+
 total 248
 -rw-rw-r--  1 servidor2 servidor2     0 may 21 13:35 fich.txt
 -rw-r--r--  1 servidor2 servidor2   405 feb  6  2020 index.php
