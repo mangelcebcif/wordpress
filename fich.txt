@@ -1,4 +1,4 @@
-mas pruebas esto es una prueba
+dsASDSaSa AS   SA saSmas pruebas esto es una prueba
 
 total 248
 -rw-rw-r--  1 servidor2 servidor2     0 may 21 13:35 fich.txt
