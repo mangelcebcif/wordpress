@@ -1,4 +1,4 @@
- fgfdg fdg dfgd f dfg dfgd f dg df df dg dg df dsASDSaSa AS   SA saSmas pruebas esto es una prueba fsfsdfsdf
+?????????
 
 total 248
 -rw-rw-r--  1 servidor2 servidor2     0 may 21 13:35 fich.txt
