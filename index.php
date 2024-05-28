@@ -1,5 +1,5 @@
 <?php
-echo "prueba de visualizacion";
+echo "prueba de visualizacion 2222222232";
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
