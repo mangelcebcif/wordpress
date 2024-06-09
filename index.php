@@ -1,5 +1,5 @@
 <?php
-echo "Esta parte se debe cambiar en la presentación del proyecto.";
+echo "Esta parte se debe cambiar en la presentación del proyecto. esto es una prueba";
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
